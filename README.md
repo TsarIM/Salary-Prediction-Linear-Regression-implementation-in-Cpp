@@ -1,1 +1,1 @@
-# Linear-Regression-implementation-in-C-
+<h5>This repository contains a robust and efficient implementation of linear regression designed to analyze and predict data from CSV files. Specifically, this project demonstrates the use of linear regression on a dataset containing experience vs. salary data. Whether you are looking to understand the fundamentals of linear regression, improve your C++ skills, or apply linear regression to real-world data, this repository serves as a good resource.</h5>
